@@ -59,11 +59,10 @@
 ### PCB Design:
 <img width="730" height="533" alt="Screenshot 2024-09-14 151600" src="https://github.com/user-attachments/assets/d2b183da-df04-4569-86f2-5dad2f09c3d1" />
 ### Motors Control:
-![Image](https://github.com/user-attachments/assets/cf3ac9c4-0f0f-4537-8160-777d5fa8ad89)
+![Image](https://github.com/user-attachments/assets/328d5bd2-9ff6-473b-b7b2-9aa615c7145b)
 ### Delta Robot Prototype:
-![93fa1d29d2d783f6a5f27b9cddc6bc11](https://github.com/user-attachments/assets/b4323027-9751-47b2-9a07-f4e8018b97cc)
-![IMG_8862](https://github.com/user-attachments/assets/45683292-8722-4ae9-9b80-a7fc332d1512)
-
+![93fa1d29d2d783f6a5f27b9cddc6bc11](https://github.com/user-attachments/assets/607be2c1-1239-45ef-86f1-886db737cdff)
+![IMG_8862](https://github.com/user-attachments/assets/ca4b1c25-eb5d-46de-b608-0c2fd337a68c)
 
 
 
