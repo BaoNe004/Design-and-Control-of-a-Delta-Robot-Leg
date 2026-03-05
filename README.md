@@ -57,7 +57,7 @@
 ### 3D Control Interface:
 ![Image](https://github.com/user-attachments/assets/b1b0b312-5e6a-4f6e-b422-656d3bc90af6)
 ### PCB Design:
-<img width="730" height="533" alt="Screenshot 2024-09-14 151600" src="https://github.com/user-attachments/assets/828aba47-a2c6-4271-9d11-be93b6958d6e" />
+![Image](https://github.com/user-attachments/assets/4da88b87-3e0a-465d-88c0-fb1c0b46375d)
 ### Motors Control:
 ![Image](https://github.com/user-attachments/assets/328d5bd2-9ff6-473b-b7b2-9aa615c7145b)
 ### Delta Robot Prototype:
